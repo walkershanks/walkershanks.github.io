@@ -42,7 +42,7 @@ ul.posts li {
     list-style: none;
 }
 .gallery_items {
-    display: flex;
+    display: block;
     flex-wrap: wrap;
     margin: 20px;
 }
