@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background-color: DarkOliveGreen;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -42,7 +43,7 @@ ul.posts li {
     list-style: none;
 }
 .gallery_items {
-    display: block;
+    display: inline;
     flex-wrap: wrap;
     margin: 40px;
     height: 200px; 
