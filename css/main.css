@@ -44,4 +44,5 @@ ul.posts li {
 .gallery_items {
     display: flex;
     flex-wrap: wrap;
+    margin: 20px;
 }
