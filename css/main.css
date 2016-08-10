@@ -45,6 +45,7 @@ ul.posts li {
     display: block;
     flex-wrap: wrap;
     margin: 40px;
-    height: 200px;
+    height: 200px; 
     width: 200px;
+    float: right;
 }
