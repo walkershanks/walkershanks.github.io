@@ -36,6 +36,7 @@ footer {
 .gallery_items {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     margin: 40px;
     height: 200px; 
     width: 200px;
