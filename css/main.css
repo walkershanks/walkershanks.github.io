@@ -41,7 +41,7 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-gallery_items {
+.gallery_items {
     display: inline-block;
     margin: 40px;
     height: 200px; 
