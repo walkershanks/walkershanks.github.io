@@ -42,8 +42,7 @@ ul.posts li {
     list-style: none;
 }
 gallery_items {
-    display: inline;
-    flex-wrap: wrap;
+    display: inline-block;
     margin: 40px;
     height: 200px; 
     width: 200px;
