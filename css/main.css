@@ -42,6 +42,10 @@ footer {
     height: 200px; 
     width: 200px;
 }
+
+.thumbnail {
+    position: absolute;
+}
 .thumbnail:hover {
     position:relative;
     top:-25px;
