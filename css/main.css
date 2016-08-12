@@ -48,6 +48,6 @@ footer {
     left:-35px;
     width:500px;
     height:auto;
-    display:block;
+    display:inline-block;
     z-index:999;
 }
