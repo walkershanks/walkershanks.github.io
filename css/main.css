@@ -43,6 +43,10 @@ footer {
     width: 200px;
 }
 
+figcaption {
+    display: inline;
+}
+
 .thumbnail:hover {
     position:relative;
     top:-25px;
