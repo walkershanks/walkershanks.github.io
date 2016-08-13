@@ -36,20 +36,9 @@ footer {
 }
 
 .gallery_items img {
-    position: relative;
     display: inline;
     float: left;
     margin: 25px;
     height: 200px; 
     width: 200px;
-}
-
-figure {
-    border: 10px solid #000;
-    position: relative;
-}
-figure img {
-    display: block;
-    width: 100%;
-    height: auto;
 }
