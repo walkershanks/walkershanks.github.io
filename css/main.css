@@ -43,4 +43,18 @@ footer {
     width: 200px;
 }
 
+figure {
+     position: relative;
+}
+figure img {
+    display: block;
+}
+figcaption {
+    background: rgba(0, 0, 0, 0.5);
+    color: #FFF;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
 
