@@ -45,14 +45,11 @@ footer {
 }
 
 figure {
-     position: relative;
+    border: 10px solid #000;
+    position: relative;
 }
-figcaption {
-    background: rgba(0, 0, 0, 0.5);
-    color: #FFF;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
+figure img {
+    display: block;
+    width: 100%;
+    height: auto;
 }
-
