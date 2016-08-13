@@ -36,6 +36,7 @@ footer {
 }
 
 .gallery_items img {
+    position: relative;
     display: inline;
     float: left;
     margin: 25px;
@@ -45,9 +46,6 @@ footer {
 
 figure {
      position: relative;
-}
-figure img {
-    display: block;
 }
 figcaption {
     background: rgba(0, 0, 0, 0.5);
