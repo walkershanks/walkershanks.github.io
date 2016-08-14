@@ -48,8 +48,8 @@ footer {
 .gallery_items figcaption {
     position: absolute;
     bottom: 10%;
-    display: none;
     float: left;
+    display: none;
 }
 .gallery_items: hover figcaption {
     display: inline;
