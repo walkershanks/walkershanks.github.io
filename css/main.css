@@ -51,3 +51,6 @@ footer {
     display: none;
     float: left;
 }
+.gallery_items: hover figcaption {
+    display: inline;
+}
