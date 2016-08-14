@@ -47,6 +47,7 @@ footer {
 
 figcaption {
     position: absolute;
-    display: inline;
+    bottom: 100%;
+    display: inline-block;
     float: left;
 }
