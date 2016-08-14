@@ -45,9 +45,9 @@ footer {
     z-index: -1;
 }
 
-figcaption {
+.gallery_items figcaption {
     position: absolute;
     bottom: 10%;
-    display: inline-block;
+    display: none;
     float: left;
 }
