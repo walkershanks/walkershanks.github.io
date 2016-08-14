@@ -41,4 +41,9 @@ footer {
     margin: 25px;
     height: 200px; 
     width: 200px;
+    position: relative;
+}
+
+figcaption {
+    position: absolute;
 }
